@@ -15,6 +15,11 @@ Made With
 
 ![Showcase](https://img.shields.io/badge/-Showcase-9B59B6?style=flat)
 
-![ezgif-2-85a423badf](https://github.com/BennLL/WeatheringWU-kotlin-/assets/110274203/cdff21f4-6c69-4478-a129-d536c40640d0)
+
+
+https://github.com/BennLL/WeatheringWU-kotlin-/assets/110274203/7b3719c5-d4ca-465d-ab72-1384c51d8839
+
+
+
 
 
