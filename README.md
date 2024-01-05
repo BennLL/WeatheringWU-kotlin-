@@ -14,7 +14,7 @@ Made With
 <p>Users can quickly access the most recent search by tapping the 'Recent' button on the navigation bar.</p>
 
 ![Showcase](https://img.shields.io/badge/-Showcase-9B59B6?style=flat)
-<br>
-https://github.com/BennLL/WeatheringWU-kotlin-/assets/110274203/cdff21f4-6c69-4478-a129-d536c40640d0
+
+![ezgif-2-85a423badf](https://github.com/BennLL/WeatheringWU-kotlin-/assets/110274203/cdff21f4-6c69-4478-a129-d536c40640d0)
 
 
